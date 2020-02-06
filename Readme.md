@@ -35,7 +35,7 @@ The bleaching correction step is based on a Macro by Sean McKinney.
 
 
 ## Example data
-* A **small example dataset** which contains a subset of tiles (and lower z-sampling) can be found in [*example_data*](example_data).
+* A **small example dataset** which contains a subset of tiles (and lower z-sampling) can be found in [here](https://github.com/walkernoreen/muscle_fiber_orientation).
 * Run the Fiji script with the following parameters: 
 	* *File type raw data*: tif
 	* *Do background correction*: checked
